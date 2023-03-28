@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saharsh Gaurav
 - 👀 I’m interested in Data Engineering, Python, Flask, Django, GCP, Azure, Spark
-- 🌱 I’m currently learning Scala
-- 💞️ I’m looking to collaborate on Scala, spark jobs Migrations
+- 🌱 I’m currently learning Snowflake
+- 💞️ I’m looking to collaborate on Snowflake Migrations
 - 📫 How to reach me ->sgaurav03 on linkedin
 
 <!---
