@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saharsh Gaurav
 - 👀 I’m interested in Data Engineering, Python, Flask, Django, GCP, Azure, Spark
-- 🌱 I’m currently learning Azure Data Factory
-- 💞️ I’m looking to collaborate on Azure Data Factory Pipelines
+- 🌱 I’m currently working upon GCP Data Engineering
+- 💞️ I’m looking to collaborate on GCP Data Engineering Pipelines
 - 📫 How to reach me ->sgaurav03 on linkedin
 
 <!---
